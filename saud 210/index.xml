@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<phone>
+    <id>245642</id>
+    <name>realme</name>
+    <price>Rs:25000</price>
+    <desc>this phone have a best features</desc>
+
+</phone>
+<computer>
+    <id>241574</id>
+    <name>dell</name>
+    <price>Rs:2465000</price>
+    <desc>new genration computer good processes </desc>
+</computer>
+<mouse>
+    <id>241545</id>
+    <name>mouse</name>
+    <price>Rs:2540</price>
+    <desc>this is the best mouse long wire rgb lights</desc>
+
+</mouse>
+<keybord>
+    <id>456411</id>
+    <name>keybord</name>
+    <price>Rs:2500</price>
+    <desc>best keybord under Rs:2500</desc>
+</keybord>
+
+
+</items>
